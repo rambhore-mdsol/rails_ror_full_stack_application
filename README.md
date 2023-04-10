@@ -1,0 +1,1 @@
+# rails_ror_full_stack_application
